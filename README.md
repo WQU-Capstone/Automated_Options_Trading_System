@@ -8,16 +8,4 @@ You would need the Python Language Environment to run our solution.
 
 To run our solution, Clone the repository to your local drive. Then open the Workbook_v1.0.ipynb file
 
-You would need to following python packages installed to succesfully run the solution:
-
-pip install pandas_datareader
-pip install pandas
-pip install numpy
-pip install matplotlib.pyplot
-pip install statistics
-pip install math
-pip install scipy.stats
-pip install statsmodels.api
-pip install requests
-pip install io.BytesIO
-pip install datetime
+Open the requirements.txt file to see python packages to install to succesfully run the solution.
