@@ -6,6 +6,6 @@ Our project proposal highlights the effects of Market Regimes on the historical 
 
 You would need the Python Language Environment to run our solution.
 
-To run our solution, Clone the repository to your local drive. Then open the Workbook_v1.0.ipynb file
+To run our solution, Clone the repository to your local drive. Then open the Workbook_v1.7.ipynb file
 
 Open the requirements.txt file to see python packages to install to succesfully run the solution.
